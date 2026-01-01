@@ -30,9 +30,9 @@ TRAM-UNet utilizes an encoder-decoder structure based on U-Net with skip connect
 ## 📂 Datasets
 This study utilizes three public datasets:
 
-- [BUS-BRA](https://zenodo.org/records/8231412): 1,875 images from 1,064 patients (Brazil).
-- [BUSI](https://www.kaggle.com/datasets/sabahesaraki/breast-ultrasound-images-dataset): 780 images divided into normal, benign, and malignant (Cairo, Egypt).
-- [BLUI](https://qamebi.com/breast-ultrasound-images-database/): 232 images with original, GT mask, and fusion entries (Tehran University).
+- [**BUS-BRA**](https://zenodo.org/records/8231412): 1,875 images from 1,064 patients (Brazil).
+- [**BUSI**](https://www.kaggle.com/datasets/sabahesaraki/breast-ultrasound-images-dataset): 780 images divided into normal, benign, and malignant (Cairo, Egypt).
+- [**BLUI**](https://qamebi.com/breast-ultrasound-images-database/): 232 images with original, GT mask, and fusion entries (Tehran University).
 
 
 ## 🛠️ Environment
