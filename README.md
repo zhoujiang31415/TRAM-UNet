@@ -14,6 +14,21 @@ Clinical Relevance — This study is clinically relevant as it demonstrates the 
 
 
 
+## 🎓 Citation
+If you find this work helpful for your research, please cite our IEEE EMBC 2025 paper:
+
+@INPROCEEDINGS{11253082,
+  author={Zhou, Jiang and Sumi, Chikayoshi},
+  booktitle={2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
+  title={TRAM-UNet: Transformer and Region Attention Module based U-Net for Breast Ultrasound Image Segmentation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Deep learning;YOLO;Image segmentation;Ultrasonic imaging;Accuracy;Shape;Transformers;Breast cancer;Robustness;Spatial resolution},
+  doi={10.1109/EMBC58623.2025.11253082}}
+
+
 ## 📜 License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) and [NOTICE](./NOTICE) files for details.
 
