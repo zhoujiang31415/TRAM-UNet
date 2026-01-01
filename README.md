@@ -42,6 +42,17 @@ The experiments were conducted using the following hardware and software configu
 - **Input Specifications:** All input ultrasound images are resized to 256 × 256 pixels.<br>
 
 
+## ⚙️ Training and Validation
+```
+pip install einops
+pip install ml_collections
+pip install timm
+pip install thop
+```
+```
+python train.py --epochs 80 --batch-size 8 --learning-rate 1e-4
+```
+
 
 ## 🎓 Citation
 If you find this work helpful for your research, please cite our IEEE EMBC 2025 paper:
