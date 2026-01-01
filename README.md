@@ -26,7 +26,6 @@ If you find this work helpful for your research, please cite our IEEE EMBC 2025 
   volume={},
   number={},
   pages={1-4},
-  keywords={Deep learning;YOLO;Image segmentation;Ultrasonic imaging;Accuracy;Shape;Transformers;Breast cancer;Robustness;Spatial resolution},
   doi={10.1109/EMBC58623.2025.11253082}}
 ```
 
