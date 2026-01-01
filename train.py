@@ -15,9 +15,6 @@ import pandas as pd
 
 from eval import eval_net
 from model.model import UNet
-from model.attention_unet import AttentionUNet
-from model.unetplusplus import UNetPlusPlus
-from model.transunet import TransUNet
 from model.utnet import UTNet
 from model.tram_unet import TRAM_UNet
 from loss import SoftDiceLoss, BCESoftDiceLoss
