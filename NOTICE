@@ -1,0 +1,11 @@
+TRAM-UNet
+Copyright 2026 Jiang Zhou (Sophia University) 
+
+This product includes software developed by Jiang Zhou and Chikayoshi Sumi at Sophia University, Tokyo, Japan.
+
+If you use this code or the TRAM-UNet architecture in your research, please cite the following paper:
+
+Jiang Zhou and Chikayoshi Sumi, "TRAM-UNet: Transformer and Region Attention Module based U-Net for Breast Ultrasound Image Segmentation," in 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025, pp. 1-4.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
