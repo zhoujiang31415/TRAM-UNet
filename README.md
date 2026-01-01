@@ -35,6 +35,14 @@ This study utilizes three public datasets:
 3. [BLUI](https://qamebi.com/breast-ultrasound-images-database/): 232 images with original, GT mask, and fusion entries (Tehran University).
 
 
+## 🛠️ Environment
+The experiments were conducted using the following hardware and software configuration:
+**Framework:** The model is implemented using PyTorch11.
+**Hardware:** Training was performed on an NVIDIA A100-SXM4 GPU with 40GB of memory22.
+**Input Specifications:** All input ultrasound images are resized to $256 \times 256$ pixels3.
+
+
+
 ## 🎓 Citation
 If you find this work helpful for your research, please cite our IEEE EMBC 2025 paper:
 
