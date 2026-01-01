@@ -34,6 +34,41 @@ This study utilizes three public datasets:
 - [**BUSI**](https://www.kaggle.com/datasets/sabahesaraki/breast-ultrasound-images-dataset): 780 images divided into normal, benign, and malignant (Cairo, Egypt).
 - [**BLUI**](https://qamebi.com/breast-ultrasound-images-database/): 232 images with original, GT mask, and fusion entries (Tehran University).
 
+To maintain consistency with the five-fold cross-validation and the 8:2 train-test split used in our study, 
+please organize the BUS-BRA dataset  using the following structure.
+
+```
+dataset/
+└── BUSBRA/
+    └── five-fold/
+        ├── fold1/
+        │   ├── train/
+        │   │   ├── images/
+        │   │   │   ├── patient_001_A.png
+                    ├── patient_002_B.png  
+        │   │   │   └── ...
+        │   │   └── labels/
+        │   │       ├── patient_001_A.png
+                    ├── patient_002_B.png 
+        │   │       └── ...
+        │   └── test/
+        │       ├── images/
+        │       │   ├── patient_099_C.png
+        │       │   └── ...
+        │       └── labels/
+        │           ├── patient_099_C.png
+        │           └── ...
+        ├── fold2/
+        │   ├── ...
+        ├── fold3/
+        │   ├── ...
+        ├── fold4/
+        │   ├── ...
+        └── fold5/
+            ├── train/
+            └── test/
+```
+
 
 ## 🛠️ Environment
 The experiments were conducted using the following hardware and software configuration:<br>
