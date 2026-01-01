@@ -21,9 +21,9 @@ TRAM-UNet utilizes an encoder-decoder structure based on U-Net with skip connect
   <em><b>Figure 1.</b> An overview of TRAM-UNet.</em>
 </p>
 <p align="center">
-  <img src="./images/TRandRAM.png" width="500" title="Block Architecture">
+  <img src="./images/TRandRAM.png" width="400" title="Block Architecture">
   <br>
-  <em><b>Figure 2.</b> Overview of Transformer Block (left) and Region Attention Module (right)..</em>
+  <em><b>Figure 2.</b> Overview of Transformer Block (left) and Region Attention Module (right).</em>
 </p>
 
 
