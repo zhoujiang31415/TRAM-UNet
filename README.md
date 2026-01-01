@@ -16,7 +16,7 @@ Clinical Relevance — This study is clinically relevant as it demonstrates the 
 ## 🧱 Model Architecture
 TRAM-UNet utilizes an encoder-decoder structure based on U-Net with skip connections.
 <p align="center">
-  <img src="./images/tramunet.png" width="85%" title="TRAM-UNet Architecture">
+  <img src="./images/tramunet.png" width="90%" title="TRAM-UNet Architecture">
   <br>
   <em><b>Figure 1.</b> An overview of TRAM-UNet.</em>
 </p>
