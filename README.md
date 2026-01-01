@@ -50,7 +50,7 @@ pip install timm
 pip install thop
 ```
 ```
-python train.py --epochs 80 --batch-size 8 --learning-rate 1e-4
+python train.py --epochs 120 --batch-size 8 --learning-rate 1e-4
 ```
 
 
