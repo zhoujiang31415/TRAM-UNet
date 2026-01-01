@@ -12,3 +12,8 @@ and adapt to different lesion characteristics, underscoring its potential to adv
 
 Clinical Relevance — This study is clinically relevant as it demonstrates the potential of deep learning in improving breast ultrasound image segmentation. With further research and optimization, this approach could contribute to more precise and automated breast cancer diagnosis in clinical practice.
 
+
+
+## 📜 License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) and [NOTICE](./NOTICE) files for details.
+
