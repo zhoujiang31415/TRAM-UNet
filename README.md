@@ -12,6 +12,11 @@ and adapt to different lesion characteristics, underscoring its potential to adv
 
 Clinical Relevance — This study is clinically relevant as it demonstrates the potential of deep learning in improving breast ultrasound image segmentation. With further research and optimization, this approach could contribute to more precise and automated breast cancer diagnosis in clinical practice.
 
+
+## 🧱 Model Architecture
+TRAM-UNet utilizes an encoder-decoder structure based on U-Net with skip connections.
+
+
 ## 📂 Datasets
 This study utilizes three public datasets:
 
