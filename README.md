@@ -36,10 +36,10 @@ This study utilizes three public datasets:
 
 
 ## 🛠️ Environment
-The experiments were conducted using the following hardware and software configuration://
-**Framework:** The model is implemented using PyTorch11.
-**Hardware:** Training was performed on an NVIDIA A100-SXM4 GPU with 40GB of memory22.
-**Input Specifications:** All input ultrasound images are resized to 256 ✖️ 256 pixels.
+The experiments were conducted using the following hardware and software configuration:<br>
+**Framework:** The model is implemented using PyTorch11.<br>
+**Hardware:** Training was performed on an NVIDIA A100-SXM4 GPU with 40GB of memory22.<br>
+**Input Specifications:** All input ultrasound images are resized to 256 × 256 pixels.<br>
 
 
 
