@@ -45,11 +45,11 @@ dataset/
         │   ├── train/
         │   │   ├── images/
         │   │   │   ├── patient_001_A.png
-                    ├── patient_002_B.png  
+        │   │   │   ├── patient_002_B.png  
         │   │   │   └── ...
         │   │   └── labels/
         │   │       ├── patient_001_A.png
-                    ├── patient_002_B.png 
+        │   │       ├── patient_002_B.png 
         │   │       └── ...
         │   └── test/
         │       ├── images/
